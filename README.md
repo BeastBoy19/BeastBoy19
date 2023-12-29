@@ -1,8 +1,6 @@
-[![MasterHead]([https://drive.google.com/file/d/1-n4MLKY-mltKcpDQOWDwGhuI9ey9cFjM/view?usp=drive_link](https://drive.google.com/file/d/1-n4MLKY-mltKcpDQOWDwGhuI9ey9cFjM/view?usp=sharing))]
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiefmqA1zb79FUB_oB65j8tSJJsTGk5pb82SW0dVsCRG_GXbOuqEGiNCfLAXLpUXRBPBoV8coshyx2OV-lpXcym3dAR6HJ6pLClv2jwE4kXXe4XkMiJGk8g1jFl0swYoSyDcOAGiHmhSamIp2RhaIIEYM_WTarQPDa2KTSnx3ll3YIqqSC4H_sxbz6Dezk/s1920/carbon-fiber-fine-sticks-r05bjq21l5x2ggmi.jpg)
 <h1 align="center">Hi 👋, I'm Bikash Kundu</h1>
 <h3 align="center">I'm Bikash from India, I am a Computer Science student, I am pursuing my MTech in cs from Jawaharlal Nehru University, previously I did my masters(M.Sc) in computer science and machine learning, and I do programming for FILE handling, Competative coding, Machine learning, Image processing, Game development... etc in C language, I have worked with libraries like SFML, SDL, GTK, OPENCV, wxWidgets, Graphics.h, winsock.h, netinet.h, socket.h... etc and software api like SQL, gnuplot. Packages like LLVM(clang), cygwin, MSYS(mingw64) so far I can remember thats all pretty much it. Currenlty I'm learning machine learning and neural networks so i will be coding those models in C language. Apart from programming I like to make circuit designs using basic ICs, specially wiring in breadboards. Digital electronics is being a special subject for me in my entire computer science journey.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beastboy19&label=Profile%20views&color=0e75b6&style=flat" alt="beastboy19" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beastboy19" alt="beastboy19" /></a> </p>
 
